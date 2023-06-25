@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [RysthDesign | Abstract](https://rysth.github.io/Build-Abstract/)
 
-- 🌱 I’m currently learning **HTML/CSS/JS & React**
+- 🌱 I’m currently learning **HTML/CSS/JS & Bootstrap**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Rysth](https://github.com/Rysth)
 
