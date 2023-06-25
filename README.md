@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rysth&label=Profile%20views&color=0e75b6&style=flat" alt="rysth" /> </p>
 
-- 🔭 I’m currently working on [RysthDesign | Abstract]((https://rysth.github.io/Build-Abstract/))
+- 🔭 I’m currently working on [RysthDesign | Abstract]([https://rysth.github.io/Build-Abstract/])
 
 - 🌱 I’m currently learning **HTML/CSS/JS & React**
 
