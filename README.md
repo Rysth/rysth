@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm John Palacios | Rysth</h1>
 <h3 align="center">A disciplined student of Frontend Development from Ecuador.</h3>
+<img align="right" width="250" class="image" loading="lazy" src="https://rysthcraft.netlify.app/img/LOGO-ONLY.svg" alt="Personal brand logo image">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rysth&label=Profile%20views&color=0e75b6&style=flat" alt="rysth" /> </p>
 
