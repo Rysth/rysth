@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rysth&label=Profile%20views&color=0e75b6&style=flat" alt="rysth" /> </p>
 
-- 🔭 I’m currently working on [Valorant Conference Page](https://rysth.github.io/Valorant-Conference-Page/)
-
 - 🌱 I’m currently learning **HTML/CSS/JS & Bootstrap**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Rysth](https://github.com/Rysth)
