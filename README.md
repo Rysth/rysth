@@ -4,6 +4,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rysth&label=Profile%20views&color=0e75b6&style=flat" alt="rysth" /> </p>
 
+- 🔔 I’m available open to a job opportunity as a Front-end Developer **HTML/CSS/JS & Bootstrap**
+
 - 🌱 I’m currently learning **HTML/CSS/JS & Bootstrap**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Rysth](https://github.com/Rysth)
