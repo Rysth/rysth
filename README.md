@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rysth&label=Profile%20views&color=0e75b6&style=flat" alt="rysth" /> </p>
 
-- 🔔 I’m available open to a job opportunity as a Front-end Developer **HTML/CSS/JS & Bootstrap**
+- 🔔 I’m available for a job opportunity as a Front-end Developer
 
 - 🌱 I’m currently learning **HTML/CSS/JS & Bootstrap**
 
