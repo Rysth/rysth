@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rysth&label=Profile%20views&color=0e75b6&style=flat" alt="rysth" /> </p>
 
-- 🔔 I’m available for a job opportunity as a Front-end Developer
+- 🔔 I’m available for a job opportunity as a Front End position as React Developer
 - 🌱 I’m currently learning **React** 
 - 👨‍💻 All of my projects are available at [https://github.com/Rysth](https://github.com/Rysth)
 - 📫 How to reach me **johnpalacios.t@gmail.com**
