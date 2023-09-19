@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm John Palacios | RysthCraft</h1>
 <h3 align="center">Front End Developer | React Developer</h3>
-<img align="right" width="240" class="image" loading="lazy" src="https://rysthcraft.netlify.app/img/LOGO-ONLY.svg" alt="Personal brand logo image">
 
 - 🔔 I’m available for a job opportunity as a Front End position as React Developer
 - 🌱 I’m currently learning **React** 
