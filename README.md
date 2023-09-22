@@ -10,6 +10,7 @@
 <p align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React Logo" width="40" height="40" />
   <img src="https://nextjs.org/static/favicon/favicon-32x32.png" alt="Next.js Logo" width="40" height="40" />
+  <img src="https://logosandtypes.com/wp-content/uploads/2023/03/astro-framework.svg" alt="Astro Logo" width="40" height="40" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="Tailwind CSS Logo" width="40" height="40" />
   <img src="https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/32f3a89c-99c4-466f-8536-dd75f65fa320/Strapi-Monogram/w=1920,quality=80" alt="Strapi Logo" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5 Logo" width="40" height="40"/>
