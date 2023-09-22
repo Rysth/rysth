@@ -2,7 +2,7 @@
 <h3 align="center">Front-End Developer | Crafting Engaging Web Experiences with React, Next.js, Astro, Tailwind CSS, and Strapi</h3>
 
 - 🔔 Open to exciting job opportunities as a Front-End Developer, specializing in React.
-- 🌱 Currently diving deep into the world of **React**, **Next.js**, **Tailwind CSS**, and **Strapi**.
+- 🌱 Currently diving deep into the world of **React**, ***Astro*, **Next.js**, **Tailwind CSS**, and **Strapi**.
 - 👨‍💻 You can explore all of my projects on my [portfolio](https://react-rysthcraft.onrender.com/).
 - 📫 Reach me at **johnpalacios.t@gmail.com**.
 
