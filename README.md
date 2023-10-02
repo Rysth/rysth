@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm John Palacios | RysthCraft</h1>
-<h3 align="center">Front-End Developer | Crafting Engaging Web Experiences with React, Next.js, Astro, Tailwind CSS, and Strapi</h3>
+<h3 align="center">Front-End Developer | Crafting Engaging Web Experiences with React, Astro, and Tailwind CSS</h3>
 
 - 🔔 Open to exciting job opportunities as a Front-End Developer, specializing in React.
 - 🌱 Currently diving deep into the world of **React**, **Astro**, and **Tailwind CSS**.
