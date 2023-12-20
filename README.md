@@ -1,10 +1,10 @@
 <img src="./banner.png" alt="Banner image" />
 
 <h1 align="center">Hi 👋, I'm John Palacios | RysthCraft</h1>
-<h3 align="center">Front-End Developer | Web Experience with React, Tailwind CSS, and Ruby on Rails</h3>
+<h3 align="center">Full-Stack Web Developer | Designing Professional Websites and Web Applications | React & Ruby on Rails</h3>
 
 - 🔔 Open to exciting job opportunities as a Full-Stack Developer, specializing in React and Rails.
-- 🌱 Currently diving deep into the world of **React** and **Rails**.
+- 🌱 Currently diving deep into the world of **React** and **Ruby on Rails**.
 - 👨‍💻 You can explore all of my projects on my [portfolio](https://react-rysthcraft.onrender.com/).
 - 📫 Reach me at **johnpalacios.t@gmail.com**.
 
